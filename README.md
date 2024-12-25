@@ -2,6 +2,7 @@
 
 **RegisterNumber: 24900811**
 # SYNCHRONOUS-UP-COUNTER
+# Date : 13-12-2024
 
 **AIM:**
 
